@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "agendasimple",
+    "slug": "agendasimple",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
